@@ -18,5 +18,6 @@ Each thread is started using the start() method. After creating all threads, it 
 ### **OBSERVATIONS:**
 The time taken is minimum for number of threads= 8 which is justified as there are 8 cores on my laptop.
 
-![alt text](321511686-e85868bb-acf6-4b9e-8bac-6773a634222c.png)
-![alt text](123.png)
+![123](https://github.com/gleegazer16/Multi-Threading-Assignment-UCS654/assets/100419223/58dc5d63-b9ff-4f07-b2ea-710e9833fe67)
+![321511686-e85868bb-acf6-4b9e-8bac-6773a634222c](https://github.com/gleegazer16/Multi-Threading-Assignment-UCS654/assets/100419223/72158a06-8658-40dc-8574-5d4a44138d61)
+![321511686-e85868bb-acf6-4b9e-8bac-6773a634222c](https://github.com/gleegazer16/Multi-Threading-Assignment-UCS654/assets/100419223/d05fc065-93fd-41fa-8398-a9d38103bc7b)
